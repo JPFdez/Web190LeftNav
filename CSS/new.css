@@ -48,6 +48,7 @@ nav a {
     padding: 20px;
     display: block;
     background-color: #B3C7E6;
+   /* border: 2px solid #FFFFFF;*/
     border-bottom: 1px solid #FFFFFF;} 
 
 nav a:link{color:#3F2860;  }
